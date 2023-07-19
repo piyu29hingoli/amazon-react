@@ -1,0 +1,10 @@
+/* FOOTER */
+footer {
+
+    color: white;
+    background-color: var(--major-bg-color);
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    padding: 54px;
+}
